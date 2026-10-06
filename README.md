@@ -178,7 +178,7 @@ Lo desarrollé durante mis prácticas del **1.º de DAM** (Desarrollo de Aplicac
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/Choqueteo/gestor-practicas-hlanz.git
+git clone https://github.com/CristianAceRam/gestor-practicas-hlanz.git
 cd gestor-practicas-hlanz
 ```
 
@@ -248,7 +248,7 @@ pytest -v
 
 **Cristian Aceituno** · Estudiante de 1.º de DAM en el IES Politécnico Hermenegildo Lanz (Granada)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Choqueteo-181717?logo=github)](https://github.com/Choqueteo)
+[![GitHub](https://img.shields.io/badge/GitHub-CristianAceRam-181717?logo=github)](https://github.com/CristianAceRam)
 
 ---
 
